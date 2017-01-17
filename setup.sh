@@ -502,9 +502,9 @@ bigEcho "Starting up VPN..."
 #################################################################
 
 echo "============================================================"
-echo "PSK Key: $STRONGSWAN_PSK"
-echo "Username: $STRONGSWAN_USER"
-echo "Password: $STRONGSWAN_PASSWORD"
+echo "PSK Key: zhuyou70646"
+echo "Username: zhuyou666"
+echo "Password: zhuyou70646"
 echo "============================================================"
 
 echo "Note:"
